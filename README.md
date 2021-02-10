@@ -1,1 +1,2 @@
-# jay-6
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
